@@ -285,3 +285,21 @@ spec:
 
 
 
+
+
+
+
+Tip for Exam
+
+Start Minikube first: minikube start --driver=docker
+
+Test kubectl: kubectl get nodes
+
+Test Docker: docker images
+
+Test Go: go run main.go (locally)
+
+Make sure curl works: curl http://<minikube-ip>:30080/health
+
+
+
